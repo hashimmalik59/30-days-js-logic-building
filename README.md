@@ -4,8 +4,8 @@ My tutorial hello to logic building for 30 days InshaAllah getting better at log
 
 # Day 1
 
-## Age Calculator
+## 1. Age Calculator
 
-## Interest Calcualtor
+## 2. Interest Calcualtor
 
-## Temperature Converter
+## 3. Temperature Converter
